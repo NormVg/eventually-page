@@ -9,7 +9,7 @@ body{
 
 iframe{
     border: 1px whitesmoke solid;
-    aspect-ratio: 9/16;
+    aspect-ratio: 375/667;
     height: 90vh;
     border-radius: 15px;
     z-index: 11;
